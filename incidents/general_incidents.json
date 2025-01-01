@@ -1,0 +1,28 @@
+[
+    {
+        "ID": "1",
+        "title": "Инцидент 1",
+        "scenario": "К вам приходит Рома Букин и говорит что латенси на auth выросла..."
+    },
+    {
+        "ID": "2",
+        "title": "Инцидент 2",
+        "scenario": "Ты получаешь алерт о том что k8s в YC unhealthy..."
+    },
+    {
+        "ID": "3",
+        "title": "Инцидент 3",
+        "scenario": "Ты получаешь алерт о том что произошло падение заказов больше чем на 50%..."
+    },
+    {
+        "ID": "4",
+        "title": "Инцидент 4",
+        "scenario": "Ты получаешь алерт о том что DodoIS массово недоступна..."
+    },
+    {
+        "ID": "5",
+        "title": "Инцидент 5",
+        "inkstory": "incidents/redis-story.json",
+        "scenario": "You've received an alert that your Redis server is killed..."
+    }
+]
